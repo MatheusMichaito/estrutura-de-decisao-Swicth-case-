@@ -1,0 +1,29 @@
+let opcao ='suco'
+
+switch(opcao){
+
+case 'hb1':'suco de uva'
+      alert ('suco de uva está com preço de R$5,50')
+ break
+case 'hb2':'suco de morango'
+      alert ('suco de morango está com preço de R$6,50')
+ break
+case 'hb3':'suco de laranja'
+     alert ('suco de laranja está com preço de R$7,50')
+ break
+case 'hb4':'suco de maracuja'
+     alert ('suco de maracuja está com preço de R$8,50')
+ break
+case 'hb5':'suco de pitanga'
+     alert ('suco de pitanga está com preço de R$8,58')
+ break
+case 'hb6':'suco de acerola'
+     alert ('suco de acerola está com preço de R$5,46')
+ break
+case 'hb7': 'suco de abacaxi'
+     alert ('suco de abacaxi está com preço de R$10,50')
+ break
+ default:
+     alert ('Opção inválida')
+ break
+}
